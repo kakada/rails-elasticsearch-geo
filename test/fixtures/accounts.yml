@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  acc_number: MyString
+  acc_balance: 1.5
+  city: MyString
+  state: MyString
+  lat: 1.5
+  lon: 1.5
+
+two:
+  acc_number: MyString
+  acc_balance: 1.5
+  city: MyString
+  state: MyString
+  lat: 1.5
+  lon: 1.5
